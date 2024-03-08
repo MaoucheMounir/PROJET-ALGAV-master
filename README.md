@@ -5,7 +5,7 @@ Projet de l'UE AlgAv M1-S1 Sorbonne Université
 - MAOUCHE Mounir
 - [BOUZOURINE Hichem](https://github.com/hichem-bouzourine)
 - [TABELLOUT Yanis](https://github.com/Yanis540)
-- [Tabellout Salim](https://github.com/TSM540)
+- [TABELLOUT Salim](https://github.com/TSM540)
 
 # Principe
 - Implémentation de différentes structures de données (arbres binaires de recherche, tas, files binomiales, tables de hachage)
